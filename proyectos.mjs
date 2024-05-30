@@ -42,7 +42,7 @@ export const proyectos = [
   },
   {
     img: "img/supa.png",
-    link: "https://comentarios-juegos-bbdd-ltrnpt0bx-victors-projects-14a27917.vercel.app/",
+    link: "https://comentarios-juegos-bbdd.vercel.app/",
   },
   {
     img: "img/pokemon.PNG",
