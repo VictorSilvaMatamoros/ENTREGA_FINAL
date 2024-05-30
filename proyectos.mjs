@@ -38,7 +38,7 @@ export const proyectos = [
   },
   {
     img: "img/gasolinera.PNG",
-    link: "https://api-gasolineras-main-9kjcajxgl-victors-projects-14a27917.vercel.app/",
+    link: "https://api-gasolineras-main.vercel.app/",
   },
   {
     img: "img/supa.png",
